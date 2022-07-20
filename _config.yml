@@ -13,8 +13,8 @@ footer_text: >
 
 keywords: marcomoro, moro, itsupport, servicenow, instructor# add your own keywords or leave empty
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://MarcoMoro.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
