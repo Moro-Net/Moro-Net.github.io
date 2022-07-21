@@ -25,6 +25,6 @@ Momente für immer einfangen und festhalten fasziniert mich seit jeher.
 
 <h2>IT-Support</h2>
 Damit ich für die Fernwartung auf den Computer, bitte diesen Link verwenden:
-**[Fernwartung](https://www.teamviewer.com/link/?url=505374&id=1709553260)
+[Fernwartung](https://www.teamviewer.com/link/?url=505374&id=1709553260)
 
 
