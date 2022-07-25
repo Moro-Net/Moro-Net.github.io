@@ -6,7 +6,7 @@ subtitle: Capture every single moment
 
 profile:
   align: right
-  image: me_400.jpeg
+  image: me_400.jpg
   image_cicular: false # crops the image to make it circular
   address: >
 
