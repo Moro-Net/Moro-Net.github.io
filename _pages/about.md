@@ -8,12 +8,9 @@ profile:
   align: right
   image: me_400.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-
-
-
-
+  more_info: # more info
 news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -25,6 +22,3 @@ Momente für immer einfangen und festhalten fasziniert mich seit jeher.
 
 <h2>IT-Support</h2>
 Damit ich für die Fernwartung auf den Computer zugreifen kann, bitte diesen Link verwenden: [Fernwartung](https://www.teamviewer.com/link/?url=505374&id=1709553260)
-
-
-
