@@ -9,11 +9,12 @@ profile:
   image: me_400.jpg
   image_circular: false # crops the image to make it circular
   more_info: # more info
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
+
 Ich heisse Marco Moro, von Beruf Teamleader & Solution Architect im Service Management Bereich. Nebenamtlich bin ich als QV-Prüfungsexperte und ÜK-Instruktor im Lehrberuf Informatiker/in EFZ tätig. Neben den beruflichen Herausforderungen geniesse ich die Zeit in der Natur mit Fotografieren oder sportlichen Aktivitäten wie Jogging, Wandern oder Motorradfahren.
 
 <h2>Bilder sagen mehr als tausend Worte</h2>
