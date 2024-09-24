@@ -7,7 +7,7 @@ subtitle: Capture every single moment
 profile:
   align: right
   image: me_400.jpg
-  image_cicular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: # more info
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
